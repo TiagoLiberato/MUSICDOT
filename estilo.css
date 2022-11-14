@@ -1,0 +1,36 @@
+body{  
+    color: #3D3D3D;
+     width: 940px;
+     /* margin left margem ao lado esquerdo*/
+     margin-left: auto;
+     /*margin right margem ao lado direito*/
+     margin-right:auto;
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+     
+    
+}
+
+h1 { 
+    background-color: #E1EDF2;
+    padding: 10px;
+            
+}
+h2 {
+    border-bottom: 1px solid;
+}
+
+figure {  
+    padding: 15px; 
+    margin: 30px;
+    text-align: center;
+    background-color: whitesmoke;
+    border: 1px solid lightgrey;
+}
+figcaption {
+    margin-top: 10px
+    
+}
+
+
+
+
