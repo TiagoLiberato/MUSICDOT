@@ -12,7 +12,7 @@ body{
 
 .titulo { 
     background-color: #E1EDF2;
-    padding: 10px;
+    padding: 15px;
     font-variant: 100;
             
 }
@@ -38,13 +38,20 @@ figcaption {
     margin-right: auto;
 }
 
-.familia-tupfeln{
+.familia-tupfeln {
     width: 275px;
     float: right;
 }
 
-figure img{
+figure img {
     width: 100%;
+}
+.contato__subtitulo {
+    display: inline;
+}
+.contato__info{
+    margin: 16px 0 24px;
+    padding-left: 32px;
 }
 
 p {
