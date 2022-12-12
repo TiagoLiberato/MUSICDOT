@@ -10,13 +10,14 @@ body{
     
 }
 
-h1 { 
+.titulo { 
     background-color: #E1EDF2;
-    padding: 10px;
+    padding: 15px;
+    font-variant: 100;
             
 }
-h2 {
-    border-bottom: 1px solid;
+.subtitulo {
+    border-bottom: 10px solid;
 }
 
 figure {  
@@ -26,11 +27,38 @@ figure {
     background-color: whitesmoke;
     border: 1px solid lightgrey;
 }
+
 figcaption {
-    margin-top: 10px
-    
+    margin-top: 10px    
 }
 
+.matriz-musicdot{
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+}
 
+.familia-tupfeln {
+    width: 275px;
+    float: right;
+}
+
+figure img {
+    width: 100%;
+}
+.contato__subtitulo {
+    display: inline;
+}
+.contato__info{
+    margin: 16px 0 24px;
+    padding-left: 32px;
+}
+
+p {
+    text-align: justify;
+}
+h3 {
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
 
 
