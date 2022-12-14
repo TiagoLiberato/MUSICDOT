@@ -66,14 +66,15 @@ figure img {
   display: inline;
 }
 .contato__secao {
-     display: inline-block;
-      vertical-align: top;
-     margin-left: 16px;
-    }
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 16px;
+}
     
-    .contato__secao--telefone {
-     margin-left: 32px;
-    }
+.contato__secao--telefone {
+    margin-left: 32px;
+}
+
 .contato__info-descricao {
   margin-left: 20px;
 }
