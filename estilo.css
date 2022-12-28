@@ -4,23 +4,26 @@ body{
      max-width: 940px;
      margin-left: auto;
      margin-right:auto;
-     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;    
+     font-size: 16px;
+     line-height: 1.5;
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif    
          
 }
 
 .titulo { 
     background-color: #E1EDF2;
-    padding: 20px;
-    padding: 15px;
+    padding: 10px;
+    font-size: 32px;
     font-variant: 100;
 }
 .subtitulo {
-    border-bottom: 10px solid;
+    border-bottom: 2px solid black;
 }
 
 figure {  
-    padding: 15px; 
+    max-width: 100%;
     margin: 30px;
+    padding: 15px;
     text-align: center;
     background-color: whitesmoke;
     border: 1px solid lightgrey;
@@ -47,28 +50,24 @@ figure img {
 .contato__subtitulo {
     display: inline;
 }
-.contato__info{
-    margin: 16px 0 24px;
-    padding-left: 32px;
-}
-
-.contato__subtitulo{
-    display:inline
-}
-
-.contato__info-titulo,
-.contato__info-descricao {
-  display: inline;
-}
 .contato__secao {
     display: inline-block;
     vertical-align: top;
     margin-left: 16px;
 }
-    
+
 .contato__secao--telefone {
     margin-left: 32px;
 }
+.contato__info {
+    margin: 16px 0 24px;
+    padding-left: 32px;
+}
+
+.contato__info-titulo,
+.contato__info-descricao {
+  display: inline;
+}   
 
 .contato__info-descricao {
   margin-left: 10px;
