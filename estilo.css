@@ -111,7 +111,7 @@ h3 {
     } 
 }
 
-@midia (max-width: 446px) {
+@media (max-width: 446px) {
 .contato__subtitulo {
  display: block;
  margin: bottom 0;
